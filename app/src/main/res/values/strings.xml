@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+    <string name="plus">+</string>
+    <string name="write_name_note">Write down the title of the note</string>
+    <string name="save_note">Save note</string>
+    <string name="back">Back</string>
+    <string name="save">save</string>
+</resources>
